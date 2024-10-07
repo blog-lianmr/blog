@@ -1,0 +1,11 @@
+1、下载fcl
+🔗https://github.com/FCL-Team/FoldCraftLauncher/releases/download/1.1.8.4/FCL-release-1.1.8.4-all.apk
+速度太慢用这个
+🔗https://alist.8mi.tech/FCL%E4%B8%8B%E8%BD%BD/%E7%A7%BB%E5%8A%A8%E6%BA%90/FCL-Stable-latest-all.apk
+2、打开，点（安装/更新）
+3、点左边的下载，一个云（里面一个向下的箭头）
+4、点游戏1.21.1，下载
+5、下载完成点左上角的房子，回到主页
+6、添加一个离线账户，名字随便
+7，切到1.21.1，启动游戏
+8.进入游戏后，多人游戏，添加服务器，地址填play.simpfun.cn:11895（地址换了我会发文章），完成，点一下，加入，开始游玩吧!
